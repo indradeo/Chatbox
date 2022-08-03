@@ -1,5 +1,6 @@
 body{
     color:palevioletred;
+    margin-left: 20px;
 } 
 h1{
     text-align: left;
@@ -19,15 +20,17 @@ div.fixed{
     bottom: 0;
     left: 0;
     position: fixed;
-    background-color:rgb(238, 208, 212);
+    background-color:pink;
     width: 100%;
+    padding: top 1px;
 }
 div.fixedhead{
-    background-color:rgb(238, 208, 212);
+    background-color:pink;
     top: 0;
     left:0;
     position:fixed;
-    width: 100%;
+    width:100%;
+
 }
 button{
     border-radius: 16px;
@@ -40,9 +43,10 @@ button{
     background-color: brown;
     color: white;
     float:right;
+    padding: left 0px;
 }
-/*img{
+img{ 
     border-radius: 16px;
-    width: 15px;
+    width: 30px;
     height: inherit;
-}*/
+ }
