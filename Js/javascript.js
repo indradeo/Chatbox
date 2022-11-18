@@ -1,5 +1,5 @@
 MyFunction()
 {
     var x;
-    x=document.getElementById("demo").innerHTML="I LOVE YOU";
+    x=document.getElementById("demo").innerHTML=" DO SELF LOVE";
 }
